@@ -1,0 +1,1 @@
+animatopn-name: indica el nombre que tendra el kayfreme que añadira a continuacion animatopn-duration: tiempo total e la animacion animation-interation-count: veces que se repitira para que sea en bucle pondremos el valor infinite animation-delay: retardo con el que comenzara a aplicarse la reproduccion de la animacion /
